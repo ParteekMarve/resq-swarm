@@ -57,7 +57,7 @@ Mission Dashboard
 |----------|--------------|
 | **Frontend** | React, TypeScript, Tailwind CSS |
 | **Backend** | FastAPI, Python |
-| **AI & Computer Vision** | PyTorch, YOLOv11, OpenCV, ByteTrack |
+| **AI & Computer Vision** | PyTorch, YOLOv8, OpenCV, ByteTrack |
 | **Database** | PostgreSQL |
 | **DevOps** | Docker, GitHub Actions |
 
